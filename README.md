@@ -7,7 +7,7 @@ Projeto criado para a semana SantanderDevWeek
 - Visual Studio Code
 
 # Backend requisitos
-- Java jdk8
+- Java (jdk8)
 - IntelliJ IDEA
 - Spring Boot 
   - Spring Inializr
