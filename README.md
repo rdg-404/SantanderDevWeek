@@ -6,7 +6,7 @@
 - Angular CLI
 - Visual Studio Code
 
-# Backend requisitos
+# BackEnd requisitos
 - Java (jdk8)
 - IntelliJ IDEA
 - Spring Boot 
