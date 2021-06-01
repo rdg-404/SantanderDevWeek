@@ -18,4 +18,8 @@
 - PostgreSQL (Windows)
 
 # Hospedagem
-- Heroku 
+- BackEnd
+  - Heroku
+  - Swagger UI
+- FrontEnd
+  - GitHub Pages 
