@@ -1,5 +1,9 @@
 # SantanderDevWeek
-## Projeto criado para a semana SantanderDevWeek
+## Projeto criado durante a semana SantanderDevWeek 
+## O objetivo foi recriar a página de cotação do banco Santander
+
+## Link da aplicação hospedada
+  https://rodrigopaivadev.github.io/SantanderDevWeek/
 
 # FrontEnd requisitos
 - NodeJs
@@ -25,5 +29,4 @@
   - GitHub Pages 
 
 
-## Link da aplicação hospedada
-  https://rodrigopaivadev.github.io/SantanderDevWeek/
+
