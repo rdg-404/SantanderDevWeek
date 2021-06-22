@@ -5,6 +5,8 @@
 ## Link da aplicação hospedada
   https://rodrigopaivadev.github.io/SantanderDevWeek/
 
+
+#### Essas foram as tecnologias usadas para em cada área
 # FrontEnd requisitos
 - NodeJs
 - Angular CLI
