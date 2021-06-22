@@ -6,7 +6,7 @@
   https://rodrigopaivadev.github.io/SantanderDevWeek/
 
 
-### Essas foram as tecnologias usadas para em cada área
+### Essas foram as tecnologias usadas em cada área
 ## FrontEnd requisitos
 - NodeJs
 - Angular CLI
