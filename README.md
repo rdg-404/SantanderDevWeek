@@ -3,7 +3,7 @@
 ## O objetivo foi recriar a página de cotação do banco Santander
 
 ## Link da aplicação hospedada
-  https://rodrigopaivadev.github.io/SantanderDevWeek/
+  https://rodrigopaivadev.github.io/SantanderDevWeek/ (Caso os cards demorem para aparecer, aguarde um pouco ou recarregue a página ^^)
 
 
 ### Essas foram as tecnologias usadas em cada área
